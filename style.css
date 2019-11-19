@@ -3,7 +3,7 @@ body {
 }
 
 h1.header {
-  color: purple;
+  color: blue;
   text-align: center;
   font-family: arial;
   font-style: italic; 
@@ -15,7 +15,7 @@ p.tabs {
 
 p.subheader {
   text-align: center;
-  color:purple;
+  color:blue;
   font-family:arial;
   font-style: italic; 
   font-weight: bold;
