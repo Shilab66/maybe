@@ -136,7 +136,7 @@ body.papa {
 }
 
 .topnav a.active {
-  background-color: #800080;
+  background-color: #c;
   color: 000000;
 }
 
@@ -145,8 +145,8 @@ p.papa {
 }
 
 .topnav a.active2 {
-  background-color: #800080;
-  color: #800080;
+  background-color: #0ca5c7;
+  color: #0ca5c7;
 }
 
 .search {
@@ -157,13 +157,13 @@ p.papa {
 
 .searchTerm {
   width: 100%;
-  border: 3px solid #800080;
+  border: 3px solid #0ca5c7;
   border-right: none;
   padding: 5px;
   height: 20px;
   border-radius: 5px 0 0 5px;
   outline: none;
-  color: #800080;
+  color: #0ca5c7;
 }
 
 .searchTerm:focus{
@@ -173,8 +173,8 @@ p.papa {
 .searchButton {
   width: 40px;
   height: 36px;
-  border: 1px solid #800080;
-  background: #800080;
+  border: 1px solid #0ca5c7;
+  background: #0ca5c7;
   text-align: center;
   color: #fff;
   border-radius: 0 5px 5px 0;
