@@ -3,7 +3,7 @@ body {
 }
 
 h1.header {
-  color: purple;
+  color: #0ca5c7;
   text-align: center;
   font-family: arial;
   font-style: italic; 
@@ -15,7 +15,7 @@ p.tabs {
 
 p.subheader {
   text-align: center;
-  color:purple;
+  color: #0ca5c7;
   font-family:arial;
   font-style: italic; 
   font-weight: bold;
@@ -120,7 +120,7 @@ body.papa {
 }
 
 .topnav a.active {
-  background-color: #800080;
+  background-color: #0ca5c7;
   color: 000000;
 }
 
@@ -129,6 +129,6 @@ p.papa {
 }
 
 .topnav a.active2 {
-  background-color: #800080;
-  color: #800080;
+  background-color: #0ca5c7;
+  color: #0ca5c7;
 }
